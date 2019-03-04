@@ -9,4 +9,9 @@ public class HuangshuaiApplication {
     public static void main(String[] args) {
         SpringApplication.run(HuangshuaiApplication.class, args);
     }
+
+    @Override
+    public String toString() {
+        return super.toString();
+    }
 }
