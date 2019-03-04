@@ -14,6 +14,5 @@ public class HuangshuaiApplication {
     public String toString() {
         return super.toString();
 
-
     }
 }
